@@ -1,0 +1,23 @@
+	Welcome to My Shop
+ Bill Number: 6774
+ Customer Name: sunny
+ Phone Number: 8888888
+=======================================
+S.No  	Item Name		   Qty 	Price
+=======================================
+1	BMW		     5	 50000000
+==========================
+		     Subtotal Rs. 50000000
+		     Sales Tax Rs. 9000000.0
+--------------------------
+			Total Rs.  55000000.0
+--------------------------
+
+
+
+
+
+
+
+
+-----------Thanks for shopping------------

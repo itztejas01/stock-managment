@@ -1,0 +1,23 @@
+	Welcome to My Shop
+ Bill Number: 938
+ Customer Name: Tejas Chaplot
+ Phone Number: 123456
+=======================================
+S.No  	Item Name		   Qty 	Price
+=======================================
+1	Iball 		     5	 500
+==========================
+		     Subtotal Rs. 500
+		     Sales Tax Rs. 90.0
+--------------------------
+			Total Rs.  550.0
+--------------------------
+
+
+
+
+
+
+
+
+-----------Thanks for shopping------------

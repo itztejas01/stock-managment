@@ -1,0 +1,23 @@
+	Welcome to My Shop
+ Bill Number: 3385
+ Customer Name: Tejas
+ Phone Number: 7506438666
+=======================================
+S.No  	Item Name		   Qty 	Price
+=======================================
+1	Iball 		     2	 500
+==========================
+		     Subtotal Rs. 500
+		     Sales Tax Rs. 90.0
+--------------------------
+			Total Rs.  550.0
+--------------------------
+
+
+
+
+
+
+
+
+-----------Thanks for shopping------------
